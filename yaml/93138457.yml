@@ -1,0 +1,27 @@
+---
+id: 93138457
+name: Sonic Stun
+type: Trap Card
+frameType: trap
+desc: 'When an opponent''s monster declares an attack: Negate the attack, then you
+  can Special Summon 1 "T.G." monster, or 1 Level 4 or lower Tuner, from your hand
+  or Deck.'
+race: Normal
+archetype: T.G.
+card_sets:
+- set_name: 'Battles of Legend: Hero''s Revenge'
+  set_code: BLHR-EN026
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '1.5'
+card_images:
+- id: 93138457
+  image_url: https://images.ygoprodeck.com/images/cards/93138457.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/93138457.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/93138457.jpg
+card_prices:
+- cardmarket_price: '0.16'
+  tcgplayer_price: '0.15'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.25'
